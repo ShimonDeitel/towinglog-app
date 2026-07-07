@@ -1,0 +1,27 @@
+{
+  "identifier" : "Towing Log",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.towinglog.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Multi-event history with roadside-assistance policy tracking",
+          "displayName" : "Towing Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.towinglog.pro",
+      "referenceName" : "Towing Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
